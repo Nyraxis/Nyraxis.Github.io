@@ -111,3 +111,10 @@ div.row div.widget p.emoji {
 div.row div.widget a {
     color: #256cf9;
 }
+
+html, body, #full {
+    min-height: 100% !important;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
